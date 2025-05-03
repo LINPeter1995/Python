@@ -116,5 +116,3 @@ Excel 檔案存取( DFExcelDemo) install openpyxl
 Pandas 數學計算 (DFMathDemo)
 Pandas 統計概論 (DFStatBasicDemo)
 基本統計(DFStatBasicDemo,DFStatGroupByDemo)
-
-資料分佈分析跟相關性分析留到明天下課補課約30分鐘"
