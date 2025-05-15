@@ -1,0 +1,4 @@
+Python, 500
+SQL, 600
+Android App, 880
+iOS App, 900
