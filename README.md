@@ -1,1 +1,1 @@
-# 一些Python範例
+# Python範例
